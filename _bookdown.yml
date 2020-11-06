@@ -1,0 +1,9 @@
+book_filename: "ms"
+language:
+  ui:
+    chapter_name: "অধ্যায় "
+delete_merged_file: true
+output_dir: "docs"
+chapter_name: "অধ্যায় "
+repo: https://github.com/mahmudstat/ms
+new_session: yes
